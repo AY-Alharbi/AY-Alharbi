@@ -35,3 +35,4 @@ I’m always excited to work on new projects and collaborate with others in the 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9BD8DB&height=100&section=footer&width=100%" alt="Footer Wave"/>
 </p>
+
