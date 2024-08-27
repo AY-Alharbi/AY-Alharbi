@@ -38,8 +38,8 @@ A Computer Science graduate 🎓 from Umm Al-Qura University, passionate about a
 
 # Hi there, I am Anwar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aa-anwaralharbi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AYAlharbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aa-anwar-alharbi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://X.com/AYAlharbi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AY-Alharbi)
 --[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://anwaralharbi.github.io/)
 
@@ -61,7 +61,7 @@ I am a fresh graduate in Computer Science with a passion for Artificial Intellig
 ## 🎯 Current Focus
 
 - 🔭 I’m currently working on **AI projects** for environmental conservation.
-- 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/aa-anwaralharbi/) and [Twitter](https://twitter.com/AYAlharbi).
+- 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/aa-anwar-alharbi/) and [Twitter](https://X.com/AYAlharbi).
 
 ## 📬 Let's Connect
 
@@ -90,7 +90,7 @@ I am a fresh graduate in Computer Science with a passion for Artificial Intellig
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#9DD7DA&height=110&section=footer"/>
 </p>
 
 
