@@ -1,5 +1,50 @@
 ## Hi there 👋
 
+import matplotlib.pyplot as plt
+from PIL import Image
+import numpy as np
+import os
+
+# تحميل صورة الشعار
+logo_path = "/mnt/data/Picture my logo.png"  # ضع المسار الصحيح للصورة هنا
+logo = Image.open(logo_path)
+
+# تحويل الشعار إلى مصفوفة numpy
+logo_np = np.array(logo)
+
+# دالة لتغيير اللون
+def change_color(image, r_shift, g_shift, b_shift):
+    new_image = image.copy()
+    new_image[:, :, 0] = np.clip(image[:, :, 0] + r_shift, 0, 255)  # تعديل قناة الأحمر
+    new_image[:, :, 1] = np.clip(image[:, :, 1] + g_shift, 0, 255)  # تعديل قناة الأخضر
+    new_image[:, :, 2] = np.clip(image[:, :, 2] + b_shift, 0, 255)  # تعديل قناة الأزرق
+    return new_image
+
+# إعداد المتغيرات
+frames = 30
+output_dir = "/mnt/data/animated_logo"
+os.makedirs(output_dir, exist_ok=True)
+
+# إنشاء صور متتابعة مع تغيير اللون تدريجياً
+for i in range(frames):
+    r_shift = int(100 * np.sin(i * np.pi / frames))
+    g_shift = int(100 * np.sin((i + 10) * np.pi / frames))
+    b_shift = int(100 * np.sin((i + 20) * np.pi / frames))
+
+    new_logo_np = change_color(logo_np, r_shift, g_shift, b_shift)
+    new_logo = Image.fromarray(new_logo_np)
+
+    # حفظ الصورة
+    new_logo.save(f"{output_dir}/frame_{i:02d}.png")
+
+# عرض آخر إطار
+plt.imshow(new_logo_np)
+plt.axis('off')
+plt.show()
+
+print(f"تم حفظ الإطارات المتتابعة في المجلد: {output_dir}")
+
+
 A Computer Science graduate 🎓 from Umm Al-Qura University, passionate about artificial intelligence, cybersecurity, and web development.
 
 🔭 I’m currently working on AI and Web Development Projects
