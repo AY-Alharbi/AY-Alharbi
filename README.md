@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AY-Alharbi)
 
 <!-- Professional Summary -->
-**I am a Computer Science graduate 👩🏻‍💻** from <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>, interested in Artificial Intelligence, deep learning, and Web Development.
+**I am a Computer Science graduate 👩🏻‍💻**, interested in Artificial Intelligence, deep learning, and Web Development.
 
 I’m always excited to work on new projects and collaborate with others in the tech community.
 
@@ -13,7 +13,14 @@ I’m always excited to work on new projects and collaborate with others in the 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-2D9CDB?style=for-the-badge&logo=miro&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 🌱 Current Learning Path
 
@@ -35,4 +42,3 @@ I’m always excited to work on new projects and collaborate with others in the 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9BD8DB&height=100&section=footer&width=100%" alt="Footer Wave"/>
 </p>
-
