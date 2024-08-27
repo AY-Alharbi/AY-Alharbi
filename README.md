@@ -5,8 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AY-Alharbi)
 
 <!-- Professional Summary -->
-**I am a Computer Science graduate 👩🏻‍💻**, interested in Artificial Intelligence, deep learning, and Web Development.
-
+I’m a Computer Science graduate 👩🏻‍💻, interested in Artificial Intelligence, deep learning, and Web Development.
 I’m always excited to work on new projects and collaborate with others in the tech community.
 
 ## 🛠️ Technologies & Tools
