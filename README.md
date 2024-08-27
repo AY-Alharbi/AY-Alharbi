@@ -38,5 +38,5 @@ I am a fresh graduate in Computer Science with a passion for Artificial Intellig
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color= #9DD7DA&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color= #9DD7DA&height=110&section=footer"/>
 </p>
