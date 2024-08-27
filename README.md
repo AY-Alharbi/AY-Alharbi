@@ -1,6 +1,3 @@
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%239DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
-
 # Hi there, I am Anwar 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aa-anwar-alharbi/)
@@ -36,5 +33,5 @@ I’m always excited to work on new projects and collaborate with others in the 
 
 <!-- Footer Wave -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=%239BD8DB&height=100&section=footer&width=100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=%80 9BD8DB&height=1000&section=footer&width=1000%" alt="Footer Wave"/>
 </p>
