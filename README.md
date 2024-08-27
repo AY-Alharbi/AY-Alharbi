@@ -1,21 +1,4 @@
 
-<code><img title="Figma" alt="Figma" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FFigma-logo.svg&f=1&nofb=1" /></code>
-<code><img title="MySQL" alt="MySQL" width="40px" src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" /></code>
-<code><img title="ROS" alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_-_Logo.svg" /></code>
-<code><img title="Python" alt="Python" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F1005350%2Fimages%2F6496607%2Fpython-logo.png&f=1&nofb=1" /></code> 
-<code><img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></code> 
-<code><img title="Java" alt="Java" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogoeps.com%2Fwp-content%2Fuploads%2F2011%2F06%2Fjava-logo-vector.png&f=1&nofb=1" /></code> 
-<code><img title="HTML" alt="HTML" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F732%2F732212.png&f=1&nofb=1" /></code> 
-<code><img title="CSS" alt="CSS" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F732%2F732190.png&f=1&nofb=1" /></code> 
-<code><img title="Figma" alt="Figma" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F33%2FFigma-logo.svg&f=1&nofb=1" /></code> 
-<code><img title="MySQL" alt="MySQL" width="40px" src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" /></code> 
-<code><img title="ROS" alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_-_Logo.svg" /></code>
-
-
-
-<!-- GitHub Profile View Counter -->
-![](https://komarev.com/ghpvc/?username=AnwarAlharbi&color=brightgreen&style=for-the-badge)
-
 <!-- Welcome Banner -->
 ![Welcome](https://raw.githubusercontent.com/AnwarAlharbi/AnwarAlharbi/main/header.gif)
 
@@ -55,5 +38,5 @@ I am a fresh graduate in Computer Science with a passion for Artificial Intellig
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color= gradient & height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color= #9DD7DA&height=110&section=footer"/>
 </p>
