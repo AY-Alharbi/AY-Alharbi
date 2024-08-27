@@ -1,37 +1,13 @@
 
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%239DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#9DD7DA&height=10&section=footer"/>
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=#9DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%239DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
+
+
 
 # Hi there, I am Anwar 👋
 
