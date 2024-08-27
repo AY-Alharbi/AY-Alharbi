@@ -1,15 +1,5 @@
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#9DD7DA&height=10&section=footer"/>
-</p>
-
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%239DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
-
-
-
-
+<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&vCenter=true&multiline=true&width=600&height=70&lines=Hi+there,+I+am+Anwar;+Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;+Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
 
 # Hi there, I am Anwar 👋
 
@@ -18,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AY-Alharbi)
 
 <!-- Professional Summary -->
-**I am a Computer Science graduate 👩🏻‍💻**, interested in Artificial Intelligence, deep learning, and Web Development.
+**I am a Computer Science graduate 👩🏻‍💻** from <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>, interested in Artificial Intelligence, deep learning, and Web Development.
 
 I’m always excited to work on new projects and collaborate with others in the tech community.
 
@@ -46,5 +36,5 @@ I’m always excited to work on new projects and collaborate with others in the 
 
 <!-- Footer Wave -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#9DD7DA&height=10&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=%239BD8DB&height=50&section=footer" alt="Footer Wave"/>
 </p>
