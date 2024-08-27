@@ -1,8 +1,6 @@
-<!-- Welcome Banner -->
-![Welcome](https://raw.githubusercontent.com/AnwarAlharbi/AnwarAlharbi/main/header.gif)
-
+<!-- Welcome  -->
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F72585&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?color=#9DD7DA&vCenter=true&multiline=true&width=600&height=70&lines=Hi there, I am Anwar كAspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
 
 # Hi there, I am Anwar 👋
 
@@ -33,18 +31,12 @@ I am a fresh graduate in Computer Science with a passion for Artificial Intellig
 ## 📬 Let's Connect
 
 - 📧 Reach me at [AY.Alharbi@outlook.sa](mailto:AY.Alharbi@outlook.sa)
-- 💬 Feel free to ask me about **AI, Cybersecurity, or Web Development**.
+- 💬 Feel free to ask me about **AI**.
 
 <!-- Footer Wave -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color= #9DD7DA&height=110&section=footer"/>
-
-        
 </p>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F72585&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+AI+Expert+%7C+Cybersecurity+Enthusiast;Always+Learning+%7C+Forever+Curious+%7C+Driven+By+Innovation" align="center" />
 
 
-
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=9DD7DA&height=110&section=footer" alt="Footer Wave" align="center">
